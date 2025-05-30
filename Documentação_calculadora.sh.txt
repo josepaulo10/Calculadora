@@ -1,0 +1,13 @@
+
+alterando as permissões do arquivo.
+
+-chmod +x calculadora.sh
+
+Execute o Script da calculadora.
+./calculadora.sh
+
+
+Calculadora Simples em Python
+Quando executar o projeto vai pedir para o usuário digitar o primeiro número, em seguida será solicitado também para o usuário digitar o segundo número .
+Na segunda parte do código será exibido todos os resultados com base nas imformaçãoes inseridas pelo usuário. 
+

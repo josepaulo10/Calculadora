@@ -1,8 +1,0 @@
-
-alterando as permissões do arquivo.
-
--chmod +x calculadora.sh
-
-Execute o Script da calculadora.
-./calculadora.sh
-
